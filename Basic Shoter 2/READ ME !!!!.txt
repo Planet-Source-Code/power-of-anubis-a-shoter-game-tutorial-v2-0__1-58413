@@ -1,0 +1,17 @@
+This is the second version of Basic Shoter
+
+--------------BASIC   SHOTER   TUTORIAL  V2--------------
+
+New :
+
+- Main screen 
+- Best Score
+- Repaired bugs
+....
+
+First version :
+http://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=58398&lngWId=1&txtForceRefresh=12120058354313722
+
+
+
+VOTE PLEASE
